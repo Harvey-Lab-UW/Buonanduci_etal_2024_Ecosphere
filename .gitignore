@@ -41,3 +41,10 @@ vignettes/*.pdf
 # macOS operating system
 /*.DS_Store
 *.DS_Store
+
+# pptx
+/*.pptx
+*.pptx
+
+# Simulated patches file too large for GitHub
+Data/simulated_patches.csv
