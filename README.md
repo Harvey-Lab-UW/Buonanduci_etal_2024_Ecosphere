@@ -25,7 +25,7 @@ This file contains high-severity patch size and structure metrics for all fire e
 - **Fire_ID**: unique fire identifier, as assigned by MTBS
 - **Fire_Name**: fire name, as assigned by MTBS
 - **Year**: year in which fire occurred
-- **NW_Cascadia**: binary indicator for whether fire occurred within Northwestern Cascadia (1) or elsewhere within the Northwest US (0)
+- **NW_Cascadia**: binary indicator for whether fire occurred within northwestern Cascadia (1) or elsewhere within the northwest US (0)
 - **Fire_Regime**: historical fire regime; either "Low" (frequent and low severity), "Mixed" (moderately frequent and mixed severity), or "High" (infrequent and high severity), as classified by LANDFIRE Fire Regime Group
 - **prp_forest**: proportion of burned area that is forested, as classified by LANDFIRE Environmental Site Potential
 - **fire_area**: total area burned (ha)
@@ -58,7 +58,7 @@ This file contains polygon perimeters for all fire events. Coordinate reference 
 - **Fire_ID**: unique fire identifier, as assigned by MTBS
 - **Fire_Name**: fire name, as assigned by MTBS
 - **Year**: year in which fire occurred
-- **NW_Cascadia**: binary indicator for whether fire occurred within Northwestern Cascadia (1) or elsewhere within the Northwest US (0)
+- **NW_Cascadia**: binary indicator for whether fire occurred within northwestern Cascadia (1) or elsewhere within the northwest US (0)
 - **Fire_Regime**: historical fire regime; either "Low" (frequent and low severity), "Mixed" (moderately frequent and mixed severity), or "High" (infrequent and high severity), as classified by LANDFIRE Fire Regime Group
 
 
